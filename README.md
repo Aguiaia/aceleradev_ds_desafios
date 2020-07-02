@@ -14,3 +14,6 @@ Para isso, utilizaremos o data set Black Friday disponibilizado originalmente pe
   <li>Pandas</li>
   <li>Jupyter notebook</li> 
 </ul>
+
+## Desafio 3
+Objetivo :Queremos conhecer melhor nossos clientes por estado. Para isso, iniciamos uma análise na pontuação de crédito. Para realizar a verificação inicial, precisamos de alguns valores. Os valores são a média, a mediana, a moda e o desvio padrão da pontuação de crédito.
