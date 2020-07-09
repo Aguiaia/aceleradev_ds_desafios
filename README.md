@@ -28,3 +28,14 @@ Para isso, utilizaremos dados artificiais e reais. Como dados reais, exploraremo
 * NumPy
 * SciPy
 * StatsModels
+
+## Semana 5 - Funções de probabilidade II
+
+###### Objetivo
+O objetivo deste desafio é explorar algumas funções de testes de hipóteses disponíveis em pacotes como o SciPy, aprendendo a interpretar seus resultados, ser crítico sobre seus usos e entender um pouco sobre seus funcionamentos. Para isso, utilizaremos o data set 2016 Olympics in Rio de Janeiro que consiste de 11 variáveis a respeito de 11538 atletas que participaram das Olimpíadas de 2016 no Rio de Janeiro.
+
+###### Tópicos
+* Probabilidade
+* Estatística
+* Testes de hipóteses
+* Testes A/B
