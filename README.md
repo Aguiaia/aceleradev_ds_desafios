@@ -39,3 +39,14 @@ O objetivo deste desafio é explorar algumas funções de testes de hipóteses d
 * Estatística
 * Testes de hipóteses
 * Testes A/B
+
+## Semana  6 - Redução de dimensionalidade e seleção de variáveis
+
+###### Objetivo
+O objetivo deste desafio é explorar sobre como funciona o PCA e como podemos obter data sets de dimensões mais baixas através dele. Para isso, vamos contar com o data set FIFA 2019 que contém originalmente 89 variáveis com diversos atributos de mais de 18 mil jogadores do game FIFA 2019.
+
+###### Tópicos
+* Redução de dimensionalidade
+* PCA
+* Seleção de variáveis
+* RFE
