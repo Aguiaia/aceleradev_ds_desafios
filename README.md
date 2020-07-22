@@ -50,3 +50,11 @@ O objetivo deste desafio é explorar sobre como funciona o PCA e como podemos ob
 * PCA
 * Seleção de variáveis
 * RFE
+
+## Semana 7 - Feature engineering
+###### Objetivo
+O objetivo deste desafio é adquirir conhecimento e prática nas ferramentas mais usuais de engenharia de variáveis. Com o domínio apropriado das técnicas básicas, como one-hot encoding, normalização e padroniação, o analista está mais bem preparado para conduzir uma etapa de preprocessamento dos dados que traga bons resultados da aplicação dos algoritmos de ML. Para isso, vamos contar com o data set Countries of the world que contém 20 variáveis, como população, área costeira e tamanho dos setores de produção, de 227 países.
+
+###### Tópicos
+* Feature engineering
+* Processamento de texto
