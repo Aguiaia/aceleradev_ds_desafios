@@ -58,3 +58,13 @@ O objetivo deste desafio é adquirir conhecimento e prática nas ferramentas mai
 ###### Tópicos
 * Feature engineering
 * Processamento de texto
+
+## Semana 8 - Prever a nota de matemática do ENEM
+###### Objetivo:
+Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016. Para isso, usará Python, Pandas, Sklearn e Regression.
+
+###### Tópicos
+* Python
+* Pandas
+* Sklearn
+* Regression
